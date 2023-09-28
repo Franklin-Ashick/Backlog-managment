@@ -24,7 +24,5 @@ The system empowers students to stay on top of their academic requirements, whil
 - SQL Server
 - HTML, CSS
 
----
 
-# 📢 Note
-This project was actively developed and maintained between **July–September 2023** to streamline academic backlog management.
+
